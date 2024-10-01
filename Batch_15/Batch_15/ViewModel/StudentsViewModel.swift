@@ -14,6 +14,7 @@ import Observation
     init(){
         
         fetchStudents()
+        print("Hello")
         
     }
     
