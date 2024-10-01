@@ -13,6 +13,7 @@ import Observation
   
     init(){
         fetchStudents()
+        
     }
     
     
