@@ -15,6 +15,7 @@ import Observation
         
         fetchStudents()
         print("Hello")
+        print("Hello")
         
     }
     
