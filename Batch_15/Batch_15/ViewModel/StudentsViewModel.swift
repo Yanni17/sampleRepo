@@ -12,6 +12,7 @@ import Observation
 @Observable class StudentsViewModel {
   
     init(){
+        
         fetchStudents()
         
     }
