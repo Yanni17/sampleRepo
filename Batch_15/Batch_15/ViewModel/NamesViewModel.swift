@@ -14,6 +14,7 @@ class NamesViewModel: ObservableObject {
 
     init() {
         addDefaultNames()
+        
     }
 
     func addName(_ name: String) {
